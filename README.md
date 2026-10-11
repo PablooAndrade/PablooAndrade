@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Pablo Andrade — Code. Learn. Go Beyond." width="100%" />
+  <img src="./assets/hero.svg" alt="Pablo Andrade — Uberlândia, MG; banner preto e amarelo inspirado no All Might" width="100%" />
 </p>
 
 <p align="center">
