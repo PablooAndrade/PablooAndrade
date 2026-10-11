@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Pablo Andrade — Uberlândia, MG</title>
-  <desc id="desc">Nome em branco sobre fundo carvão, um traço amarelo e uma pequena etiqueta Plus Ultra, em referência ao All Might.</desc>
+  <title id="title">Pablo de Andrade — Brazil</title>
+  <desc id="desc">Pablo de Andrade in warm white on charcoal, with a yellow underline and a small Plus Ultra label inspired by All Might.</desc>
   <rect width="1200" height="340" rx="6" fill="#181818"/>
 
   <text x="58" y="60" fill="#b4b1aa" font-family="Consolas, 'Liberation Mono', monospace" font-size="25">@PablooAndrade</text>
 
-  <text x="52" y="202" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-size="116" font-weight="800" letter-spacing="-5">Pablo Andrade</text>
+  <text x="52" y="202" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-size="116" font-weight="800" letter-spacing="-5">Pablo de Andrade</text>
 
   <!-- A short marker stroke, with the irregular edge of ink on paper. -->
   <path d="M58 224 804 216 823 223 796 230 61 234Z" fill="#ffd43b"/>
 
-  <text x="58" y="300" fill="#b4b1aa" font-family="Arial, Helvetica, sans-serif" font-size="27">Uberlândia, MG</text>
+  <text x="58" y="300" fill="#b4b1aa" font-family="Arial, Helvetica, sans-serif" font-size="27">Brazil</text>
 
   <g transform="translate(935 239) rotate(-6 100 34)">
     <path d="M0 4 201 0 205 60 4 65Z" fill="#ffd43b"/>

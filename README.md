@@ -1,69 +1,67 @@
-<!-- Banner amarelo anterior preservado em assets/hero.svg. -->
+<!-- Previous yellow banner preserved in assets/hero.svg. -->
 <p align="center">
-  <img src="./assets/tokyo-pixel.gif" alt="Rua japonesa em pixel art, com cerejeiras e luzes noturnas" width="100%" />
+  <img src="./assets/tokyo-pixel.gif" alt="A Japanese street in pixel art, with cherry blossoms and city lights at night" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Interfaces com personalidade. Sistemas com propósito. Evolução constante.</strong>
+  <strong>Web applications, thoughtful interfaces and the systems behind them.</strong>
 </p>
 
-### 01 · Meu arco atual
+### 01 · About me
 
-Sou o **Pablo de Andrade, de Uberlândia, MG**. Transformo ideias em aplicações web, interfaces e ferramentas que conectam pessoas, processos e dados.
+I'm **Pablo de Andrade**, a software developer based in **Brazil**, working on projects in Europe. I build web applications, dashboards and integrations, from the user interface through to the backend.
 
-Meu dia a dia passa por **TypeScript, React e Next.js**, com **Tailwind CSS** no visual. Por trás da interface, trabalho com **Node.js, Python, APIs e bancos de dados** para fazer tudo funcionar junto.
+I work primarily with **TypeScript, React and Next.js**, with **Tailwind CSS** for styling. For backend services and data workflows, I use **Node.js, Python, PostgreSQL and Supabase**.
 
-A maior parte do que construo vive em repositórios privados. Por aqui, compartilho um pouco da stack, da curiosidade e da vontade de continuar evoluindo.
+Most of my work is in private repositories. Here you'll find an overview of my stack and the kind of software I enjoy building.
 
 <p align="center">
   <a href="https://tenor.com/view/deku-izuku-midoriya-my-hero-academia-green-lightning-power-gif-13935625">
-    <img src="./assets/deku.gif" alt="Deku, de My Hero Academia, sorrindo com energia verde ao redor" width="220" height="220" />
+    <img src="./assets/deku.gif" alt="Deku from My Hero Academia, smiling with green lightning around him" width="220" height="220" />
   </a>
   <br />
-  <sub>Um problema de cada vez. Um commit de cada vez.</sub>
+  <sub>One problem at a time. One commit at a time.</sub>
   <br />
   <strong>PLUS ULTRA.</strong>
 </p>
 
 ---
 
-### 02 · Meu arsenal
+### 02 · My stack
 
-**Interfaces & experiência**
+**Frontend & user experience**
 
 <p>
-  <img src="./assets/stack-interface.svg" alt="TypeScript, React, Next.js e Tailwind CSS" width="220" />
+  <img src="./assets/stack-interface.svg" alt="TypeScript, React, Next.js and Tailwind CSS" width="220" />
 </p>
 
 TypeScript · React · Next.js · Tailwind CSS
 
-**Backend & dados**
+**Backend & data**
 
 <p>
-  <img src="./assets/stack-backend.svg" alt="Node.js, Python, PostgreSQL e Supabase" width="220" />
+  <img src="./assets/stack-backend.svg" alt="Node.js, Python, PostgreSQL and Supabase" width="220" />
 </p>
 
 Node.js · Python · PostgreSQL · Supabase
 
-**Também entram na missão:** Vite, Fastify, FastAPI, Pandas e Recharts.<br />
-**Para conferir as entregas:** Playwright e Vitest.
+**Also in my toolkit:** Vite, Fastify, FastAPI, Pandas and Recharts.<br />
+**Testing:** Playwright and Vitest.
 
 ---
 
-### 03 · O que gosto de construir
+### 03 · What I build
 
-- **Aplicações web** — interfaces cuidadas, navegação clara e experiências com movimento.
-- **Dashboards e ferramentas de dados** — transformar informação em algo que ajude a decidir.
-- **APIs e integrações** — conectar serviços e dar vida à lógica por trás das telas.
-
-> Meu próximo nível começa no próximo problema que eu decido resolver.
+- **Web applications** — interfaces that are easy to navigate and pleasant to use.
+- **Dashboards & data tools** — making information easier to explore, understand and act on.
+- **APIs & integrations** — connecting services and supporting the workflows behind the interface.
 
 <p align="center">
   <a href="https://tenor.com/view/anime-thumbs-up-approve-all-might-gif-10138734">
-    <img src="./assets/all-might.gif" alt="All Might, de My Hero Academia, sorrindo e fazendo sinal de positivo" width="280" />
+    <img src="./assets/all-might.gif" alt="All Might from My Hero Academia, smiling and giving a thumbs-up" width="280" />
   </a>
   <br />
-  <sub>Pronto para o próximo desafio.</sub>
+  <sub>On to the next challenge.</sub>
 </p>
 
 <p align="center">
@@ -71,5 +69,5 @@ Node.js · Python · PostgreSQL · Supabase
 </p>
 
 <p align="center">
-  <sub>Banner: <a href="https://tenor.com/view/landscape-city-life-japan-pixel-gif-12746051">Tenor / cyndaye</a> · GIFs: My Hero Academia · <a href="https://tenor.com/view/deku-izuku-midoriya-my-hero-academia-green-lightning-power-gif-13935625">Deku / Tenor</a> · <a href="https://tenor.com/view/anime-thumbs-up-approve-all-might-gif-10138734">All Might / Tenor</a> · Ícones: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></sub>
+  <sub>Banner: <a href="https://tenor.com/view/landscape-city-life-japan-pixel-gif-12746051">Tenor / cyndaye</a> · GIFs: My Hero Academia · <a href="https://tenor.com/view/deku-izuku-midoriya-my-hero-academia-green-lightning-power-gif-13935625">Deku / Tenor</a> · <a href="https://tenor.com/view/anime-thumbs-up-approve-all-might-gif-10138734">All Might / Tenor</a> · Icons: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></sub>
 </p>
