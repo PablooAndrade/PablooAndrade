@@ -1,5 +1,6 @@
+<!-- Banner amarelo anterior preservado em assets/hero.svg. -->
 <p align="center">
-  <img src="./assets/hero.svg" alt="Pablo Andrade — Uberlândia, MG; banner preto e amarelo inspirado no All Might" width="100%" />
+  <img src="./assets/tokyo-pixel.gif" alt="Rua japonesa em pixel art, com cerejeiras e luzes noturnas" width="100%" />
 </p>
 
 <p align="center">
@@ -8,7 +9,7 @@
 
 ### 01 · Meu arco atual
 
-Sou o **Pablo, de Uberlândia, MG**. Transformo ideias em aplicações web, interfaces e ferramentas que conectam pessoas, processos e dados.
+Sou o **Pablo de Andrade, de Uberlândia, MG**. Transformo ideias em aplicações web, interfaces e ferramentas que conectam pessoas, processos e dados.
 
 Meu dia a dia passa por **TypeScript, React e Next.js**, com **Tailwind CSS** no visual. Por trás da interface, trabalho com **Node.js, Python, APIs e bancos de dados** para fazer tudo funcionar junto.
 
@@ -70,5 +71,5 @@ Node.js · Python · PostgreSQL · Supabase
 </p>
 
 <p align="center">
-  <sub>GIFs: My Hero Academia · <a href="https://tenor.com/view/deku-izuku-midoriya-my-hero-academia-green-lightning-power-gif-13935625">Deku / Tenor</a> · <a href="https://tenor.com/view/anime-thumbs-up-approve-all-might-gif-10138734">All Might / Tenor</a> · Ícones: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></sub>
+  <sub>Banner: <a href="https://tenor.com/view/landscape-city-life-japan-pixel-gif-12746051">Tenor / cyndaye</a> · GIFs: My Hero Academia · <a href="https://tenor.com/view/deku-izuku-midoriya-my-hero-academia-green-lightning-power-gif-13935625">Deku / Tenor</a> · <a href="https://tenor.com/view/anime-thumbs-up-approve-all-might-gif-10138734">All Might / Tenor</a> · Ícones: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></sub>
 </p>
