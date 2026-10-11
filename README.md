@@ -8,7 +8,7 @@
 
 ### 01 · Meu arco atual
 
-Sou o **Pablo, de São Paulo**. Transformo ideias em aplicações web, interfaces e ferramentas que conectam pessoas, processos e dados.
+Sou o **Pablo, de Uberlândia, MG**. Transformo ideias em aplicações web, interfaces e ferramentas que conectam pessoas, processos e dados.
 
 Meu dia a dia passa por **TypeScript, React e Next.js**, com **Tailwind CSS** no visual. Por trás da interface, trabalho com **Node.js, Python, APIs e bancos de dados** para fazer tudo funcionar junto.
 
@@ -58,9 +58,17 @@ Node.js · Python · PostgreSQL · Supabase
 > Meu próximo nível começa no próximo problema que eu decido resolver.
 
 <p align="center">
+  <a href="https://tenor.com/view/anime-thumbs-up-approve-all-might-gif-10138734">
+    <img src="./assets/all-might.gif" alt="All Might, de My Hero Academia, sorrindo e fazendo sinal de positivo" width="280" />
+  </a>
+  <br />
+  <sub>Pronto para o próximo desafio.</sub>
+</p>
+
+<p align="center">
   <code>BUILD → LEARN → IMPROVE → REPEAT</code>
 </p>
 
 <p align="center">
-  <sub>GIF: My Hero Academia · <a href="https://tenor.com/view/deku-izuku-midoriya-my-hero-academia-green-lightning-power-gif-13935625">Tenor / SFsans</a> · Ícones: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></sub>
+  <sub>GIFs: My Hero Academia · <a href="https://tenor.com/view/deku-izuku-midoriya-my-hero-academia-green-lightning-power-gif-13935625">Deku / Tenor</a> · <a href="https://tenor.com/view/anime-thumbs-up-approve-all-might-gif-10138734">All Might / Tenor</a> · Ícones: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></sub>
 </p>
